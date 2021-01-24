@@ -4,3 +4,6 @@ This is an example to use with jackson for serialize and deserialize using diffe
 
 We are going to show using test, how can ignore and add some properties when develop with
 subclasses and inheritance.
+
+If you want more information take a look into:
+https://refactorizando.com/serialización-Deserializacion-Herencia-Jackson
