@@ -6,4 +6,4 @@ We are going to show using test, how can ignore and add some properties when dev
 subclasses and inheritance.
 
 If you want more information take a look into:
-https://refactorizando.com/serializacion-deserializacion-herencia-jackson
+https://refactorizando.com/serializacion-y-deserializacion-en-herencia-con-jackson
