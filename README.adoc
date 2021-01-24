@@ -1,0 +1,6 @@
+= Jackson Inheritance examples
+
+This is an example to use with jackson for serialize and deserialize using different ways.
+
+We are going to show using test, how can ignore and add some properties when develop with
+subclasses and inheritance.
